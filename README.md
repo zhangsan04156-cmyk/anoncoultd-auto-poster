@@ -15,6 +15,12 @@
 * Python 3
 * Playwright (Chromium)
 
+## release檔功能限制
+
+目前release檔只支援海山的，且固定為無頭模式，
+
+有興趣修改的人可以自行去看原始py檔
+
 ## ⚠️ 免責聲明 (Disclaimer)
 
 本專案僅作為個人學術研究、自動化網頁測試與軟體開發（Playwright）之技術驗證用途。
